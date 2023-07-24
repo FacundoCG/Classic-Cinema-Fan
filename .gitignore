@@ -1,0 +1,4 @@
+movies.db
+env/
+mvapp/__pycache__/
+movies/__pycache__/
